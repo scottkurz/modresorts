@@ -7,11 +7,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ibm.ta</groupId>
-  <artifactId>modresorts10war</artifactId>
+  <artifactId>modresorts10</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
 
-  <name>modresorts10war</name>
+  <name>modresorts10</name>
 
   <parent><!--required parent POM-->
       <groupId>dev.appsody</groupId>
